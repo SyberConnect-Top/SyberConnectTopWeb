@@ -14,7 +14,7 @@ actions:
     type: secondary
 
   - text: 🐦Follow
-    link: https://twitter.com/SyberConnect_Top
+    link: https://twitter.com/SyberConnectTop
     type: secondary 
 
   - text: More ...

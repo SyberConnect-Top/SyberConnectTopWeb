@@ -23,7 +23,7 @@ export default defineThemeConfig({
   themeColor: false,
   darkmode: 'auto-switch',
   fullscreen: false,
-  footer: '<a href="https://twitter.com/SyberConnect_Top"><i class="fa-brands fa-twitter fa-2xl"></i></a>',
+  footer: '<a href="https://twitter.com/SyberConnectTop"><i class="fa-brands fa-twitter fa-2xl"></i></a>',
   copyright: '<a href="https://github.com/SyberConnect-Top/SyberConnectTopWeb/blob/main/LICENSE">GPL-3.0</a> Licensed | Copyright © 2022-present SyberConnect.Top',
 
   repo: "https://github.com/SyberConnect-Top",
